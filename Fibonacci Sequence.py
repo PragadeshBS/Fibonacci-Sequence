@@ -1,7 +1,7 @@
 while True:
     try:
         def greet():
-            print("\nThanks for trying this program - Pragadesh BS :)")
+            print("\nThat's it :)")
             userinput()
             dummy = input("\nPress Enter to exit ")
 
